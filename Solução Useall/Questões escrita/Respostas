@@ -1,0 +1,35 @@
+Guilherme Coelho da Silva 14/07/2021
+
+Questão 1 = Resposta - 35
+
+Questão 2 = Resposta - Usamos === para comprar tipo. Usamos == só para comparar
+
+Questão 3 = Resposta - Vai entrar em loop infinito (B) pois ele adiciona 0 ao -1 infinitamente
+
+Questão 4 = novoNumero = 9; a = 3 pois retornamos 9 na função do novoNumero, e o a como não é alterado permanece 
+o mesmo valor.
+
+Questão 5 = 
+//False
+//True
+//Object {
+    nome: 'Maria'
+}
+//Object {
+    nome: 'Pedro'
+}
+
+Questão 6 =
+x = 12
+y = 19 //19,4
+Mas como pedimos número inteiro, colocamos 19.
+
+Questão 7 =  Pasta 07.
+
+Questão 8 = Pasta 08.
+
+Questão 9 = Pasta 09.
+
+Questão 10 = Pasta 10.
+
+Questão 11 = Não feita.
